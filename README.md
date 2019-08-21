@@ -1,7 +1,7 @@
 # my-mac-os
 A list of applications and tools that make MacOS such a great experience. Influenced by: [obahareth](https://github.com/obahareth/my-mac-os). 
 
-![My ChromeOS](https://i.imgur.com/NFIwBJe.jpg)
+![My ChromeOS](https://i.imgur.com/OHHFdaV.png)
 
 ### Contents
 * [Hardware](https://github.com/iamtravisw/my-chrome-os#hardware)  
