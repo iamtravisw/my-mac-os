@@ -1,7 +1,7 @@
 # my-mac-os
 A list of applications and tools that make MacOS such a great experience. You can also visit [my-chrome-os](https://github.com/obahareth/my-mac-os). 
 
-![My ChromeOS](https://i.imgur.com/OHHFdaV.png)
+![My MacOS](https://i.imgur.com/OHHFdaV.png)
 
 ### Contents
 * [Hardware](https://github.com/iamtravisw/my-mac-os#hardware)  
@@ -16,8 +16,6 @@ A list of applications and tools that make MacOS such a great experience. You ca
   * [Photos & Videos](https://github.com/iamtravisw/my-mac-os#photos--videos)  
   * [Utilities](https://github.com/iamtravisw/my-mac-os#utilities)  
   * [Browsers](https://github.com/iamtravisw/my-mac-os#browsers)   
-* [Games](https://github.com/iamtravisw/my-mac-os#games)  
-* [On My Desk](https://github.com/iamtravisw/my-mac-os#on-my-desk)  
 * [Similar Setups](https://github.com/iamtravisw/my-mac-os#similar-setups)  
 * [Related](https://github.com/iamtravisw/my-mac-os#related)  
 * [Contributing](https://github.com/iamtravisw/my-mac-os#contributing)  
@@ -40,12 +38,10 @@ A list of applications and tools that make MacOS such a great experience. You ca
 **What I don't like:** Honestly, I am just waiting on GPU acceleration and audio support to come to Crostini. Everything else has been a stellar experience.  
 
 # Operating Systems
-## ChromeOS  
+## MacOS  
 ChromeOS is what you will have upon unboxing a Chromebook such as the Google Pixelbook. While the operating system in itself is not extremely useful for a developer, the new features that allow you to run Android and Crostini are very powerful additions. [ChromeUnboxed](https://chromeunboxed.com/tips-tricks/) has some really great tips on getting you transitioned from Mac or PC to a Chromebook.  
-## Linux  
+## Windows (Bootcamp)  
 Ahh, Linux. This is the bread and butter of the setup for me. Without Linux on ChromeOS I would not own a Pixelbook today. To get Linux setup on a Chromebook is a really simple process now. You do this through Crostini, which is intergrated in with a lot of Chromebooks such as the Pixelbook. For tips and tricks on how to install Crostini, head over to [r/Crostini](http://reddit.com/r/crostini) on Reddit. The community is extremely helpful.  
-## Android  
-Finally, Android. You are probably familar with Android by now... It's been around for a while and is extremely popular. Having the ability to run phone and tablet applications from your computer is pretty useful, especially since the Pixelbook in particular has a tablet mode. I use this mostly for running Android applications that work well with my Pixelbook Pen... And shamelessly checking apps such as Instagram.  
 
 # Applications
 
@@ -68,10 +64,10 @@ Terminal (Linux) - Terminal is your most useful app. Use it to install Java, Pyt
 [Unity (Linux)](https://forum.unity.com/threads/unity-on-linux-release-notes-and-known-issues.350256/) - I tested if Unity runs on my Pixelbook, for game development. It runs, however you may want to wait on GPU acceleration if you are going to use a chromebook for any serous game development.    
 
 ## Social  
-Instagram (Android)  
-[Twitter (ChromeOS)](http://twitter.com/iamtravisw)  
-Facebook (ChromeOS)  
-Reddit (ChromeOS)
+Instagram (MacOS)  
+[Twitter (MacOS)](http://twitter.com/iamtravisw)  
+Facebook (MacOS)  
+Reddit (MacOS)
 
 ## Music  
 Spotify (Android)  
@@ -94,33 +90,22 @@ TEXT (ChromeOS) - This came with my ChromeOS. It's a simple text editor.
 [COG (ChromeOS)](https://chrome.google.com/webstore/detail/cog-system-info-viewer/difcjdggkffcfgcfconafogflmmaadco?hl=en) - Display lots of useful hardware and network info such as CPU usage and temperatures.
 
 ## Browsers  
-Chrome (ChromeOS) - Favorite browser, I use this 99% of the time.  
-Firefox (Linux) - Only used for testing websites.  
-[Chromium (Linux)](https://forum.unity.com/threads/unity-on-linux-release-notes-and-known-issues.350256/) - I used this for a while on Linux to run my local web applications. 
-
-# Games
-Hearthstone (Android)  
-Clash Royale (Android)  
-Pokemon Trading Card Game (Android)  
-
-# On My Desk
-A small personal whiteboard.  
-Too many dry erase pens.  
-Ball point sharpie and sticky notes.  
-A [Livescribe Echo](http://www.livescribe.com/en-us/smartpen/echo/) pen with a [Livescribe journal](https://store.livescribe.com/paper/black-unlined-journal-2-pack-1-and-2html).  
+Chrome (MacOS) - Favorite browser, I use this 99% of the time.  
+Safari (MacOS) - Only used for downloading Chrome.
+Edge (Bootcamp) - Only used for downloading Chrome.
 
 # Similar Setups
 Here you can find more setups by other people that you can take ideas and inspiration from.
 - [The original my-mac-os](https://github.com/nikitavoloboev/my-mac-os) 
 - [Obahareth's my-mac-os](https://github.com/obahareth/my-mac-os)
+- [iamtravisw's my-chrome-os](https://github.com/iamtravisw/my-chrome-os)
 
 # Related
 [ChromeUnboxed](https://chromeunboxed.com) - A great resource for ChromeOS.  
 [r/Crostini](https://www.reddit.com/r/crostini) - A friendly community of smart, helpful people.  
 [PlayOnLinux](https://www.playonlinux.com/en/) - Have that one app you still need? PlayOnLinux does work on Crostini.  
 
-
 # Contributing
-If you shared a similar setup to this, be it for ChromeOS, Windows or anything else, you can add it in [Similar Setups](https://github.com/iamtravisw/my-chrome-os#similar-setups) section.
+If you shared a similar setup to this, be it for MacOS, Windows or anything else, you can add it in [Similar Setups](https://github.com/iamtravisw/my-mac-os#similar-setups) section.
 
-I love finding new awesome tools and apps. If you have a favorite tool or app that you think I missed, please [say it](https://github.com/iamtravisw/my-chrome-os/issues/new).
+I love finding new awesome tools and apps. If you have a favorite tool or app that you think I missed, please [say it](https://github.com/iamtravisw/my-mac-os/issues/new).
