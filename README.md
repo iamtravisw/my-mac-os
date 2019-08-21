@@ -1,5 +1,5 @@
 # my-mac-os
-A list of applications and tools that make MacOS such a great experience. You can also visit [my-chrome-os](https://github.com/obahareth/my-mac-os). 
+A list of applications and tools that make MacOS such a great experience. You can also visit [my-chrome-os](https://github.com/iamtravisw/my-chrome-os) and [my-windows-os](#). 
 
 ![My MacOS](https://i.imgur.com/OHHFdaV.png)
 
@@ -22,7 +22,7 @@ A list of applications and tools that make MacOS such a great experience. You ca
 
 # Hardware
 **[MacBookPro by Apple](https://www.apple.com/shop/buy-mac/macbook-pro)**  
-**Operating System:** MacOS (Mojave)  
+**Operating System:** MacOS 
 **Displays:** 13" Retina Display with True Tone (2560x1600) with [49" Ultra Wide](https://www.amazon.com/Samsung-49-Inch-Curved-Monitor-LC49HG90DMNXZA/dp/B072C7TNC5) monitor by Samsung (3840x1080)  
 **Processor:** 2.8GHz quad‑core 8th‑generation Intel Core i7 processor, Turbo Boost up to 4.7GHz  
 **Storage:** 1TB SSD storage  
@@ -31,15 +31,13 @@ A list of applications and tools that make MacOS such a great experience. You ca
 **Mouse:** [Magic Mouse 2](https://www.apple.com/shop/product/MLA02LL/A/magic-mouse-2-silver) by Apple  
 **Extra:** [Bose QuietComfort 35 Series II](https://www.bose.com/en_us/products/headphones/over_ear_headphones/quietcomfort-35-wireless-ii.html#v=qc35_ii_silver) to use as wireless headphones and as a microphone. They are also noise cancelling which work great in office environments.   
 
-**What I love about my hardware:** 
+**What I love about my hardware:** It's fast. Very fast. MacOS is very optimized.
 
-**What I don't like:**  
+**What I don't like:**  This is not my first Mac. In the past I have made the mistake (or benefit, depending on how you look at it) of integrating tightly with the Apple Ecosystem. This time, I am avoiding that by using Gmail, Messages for Web, Google Calendar and Keep instead of the native MacOS applications. Mac simply works better when you are using it's built in applications, however I am finding that these web applicatins are working amazingly as replacements and keeps me in the Google Ecosystem that I have previously invested in.
 
 # Operating Systems
 ## MacOS  
-ChromeOS is what you will have upon unboxing a Chromebook such as the Google Pixelbook. While the operating system in itself is not extremely useful for a developer, the new features that allow you to run Android and Crostini are very powerful additions. [ChromeUnboxed](https://chromeunboxed.com/tips-tricks/) has some really great tips on getting you transitioned from Mac or PC to a Chromebook.  
-## Windows (Bootcamp)  
-I am not actually running Windows currently, primarily because I have a desktop computer that runs Windows10. Read more about that over at [my-windows-os](#).   
+MacOS is what you will have upon unboxing a MacBookPro, if you purchased in 2019, that will run Mojave. While I am finding that I really like Mojave, natively there are some applications that I use to make the experience even better. Below I outline the applications that I use day to day with Mojave.   
 
 # Applications
 
