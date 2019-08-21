@@ -23,7 +23,7 @@ A list of applications and tools that make MacOS such a great experience. You ca
 # Hardware
 **[MacBookPro by Apple](https://www.apple.com/shop/buy-mac/macbook-pro)**  
 **Operating System:** MacOS (Mojave)  
-**Displays:** 13" Retina Display with True Tone (2560x1600) with additional [49" Ultra Wide](hhttps://www.amazon.com/Samsung-49-Inch-Curved-Monitor-LC49HG90DMNXZA/dp/B072C7TNC5/) monitor by Samsung (3840x1080)  
+**Displays:** 13" Retina Display with True Tone (2560x1600) with [49" Ultra Wide](hhttps://www.amazon.com/Samsung-49-Inch-Curved-Monitor-LC49HG90DMNXZA/dp/B072C7TNC5) monitor by Samsung (3840x1080)  
 **Processor:** 2.8GHz quad‑core 8th‑generation Intel Core i7 processor, Turbo Boost up to 4.7GHz  
 **Storage:** 1TB SSD storage  
 **Memory:** 16GB 2133MHz LPDDR3 memory  
