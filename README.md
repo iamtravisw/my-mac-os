@@ -21,27 +21,25 @@ A list of applications and tools that make MacOS such a great experience. You ca
 * [Contributing](https://github.com/iamtravisw/my-mac-os#contributing)  
 
 # Hardware
-**[Pixelbook by Google](https://store.google.com/product/google_pixelbook)**  
-**Operating System:** ChromeOS, Android, Linux.  
-**Displays:** 12.3" LCD (2400x1600) with two additional [24" AOC Monitors](https://www.amazon.com/gp/product/B00C99MUHQ) (1920x1080)  
-**Processor:** Intel® Core™ i5 Processor  
-**Storage:** 128GB, Solid State Drive  
-**Additional Storage:** [Samsung T5 Portable SSD - 500GB - USB 3.1 External SSD](https://www.amazon.com/Samsung-T5-Portable-SSD-MU-PA500B/dp/B073GZBT36/ref=sr_1_5?ie=UTF8&qid=1538423789&sr=8-5&keywords=samsung+ssd&dpID=318I0KrjRKL&preST=_SX300_QL70_&dpSrc=srch), Additional 100GB on Google Drive  
-**Memory:** 8GB Ram  
-**Keyboard:** [Razer BlackWidow Tournament Edition CHROMA V2](https://www.razer.com/gaming-keyboards-keypads/razer-blackwidow-tournament-edition-chroma-v2)  
-**Mouse:** [Razer DeathAdder Elite](https://www.razer.com/gaming-mice/razer-deathadder-elite)  
-**Dock:** [Inland USB 3.1 (Gen 1 Type-C) Dock with Power Delivery](http://www.microcenter.com/product/485736/usb-31-(gen-1-type-c)-dock-with-power-delivery)  
-**Extra:** [Google Home Mini](https://store.google.com/product/google_home_mini) to use as wireless speakers instead of having hardwired speakers. If I need more privacy I will use the [Google Pixel Buds](https://store.google.com/product/google_pixel_buds). I also use the [Google Pixelbook Pen](https://store.google.com/product/google_pixelbook_pen) a lot. I use it to draw up ideas for designs I am working on or I'll open a drawing app and use it as a whiteboard replacement. 
+**[MacBookPro by Apple](https://www.apple.com/shop/buy-mac/macbook-pro)**  
+**Operating System:** MacOS (Mojave)  
+**Displays:** 13" Retina Display with True Tone (2560x1600) with additional [49" Ultra Wide](hhttps://www.amazon.com/Samsung-49-Inch-Curved-Monitor-LC49HG90DMNXZA/dp/B072C7TNC5/) monitor by Samsung (3840x1080)  
+**Processor:** 2.8GHz quad‑core 8th‑generation Intel Core i7 processor, Turbo Boost up to 4.7GHz  
+**Storage:** 1TB SSD storage  
+**Memory:** 16GB 2133MHz LPDDR3 memory  
+**Keyboard:** [Magic Keyboard](https://www.apple.com/shop/product/MLA22LL/A/magic-keyboard-us-english) by Apple  
+**Mouse:** [Magic Mouse 2](https://www.apple.com/shop/product/MLA02LL/A/magic-mouse-2-silver) by Apple  
+**Extra:** [Bose QuietComfort 35 Series II](https://www.bose.com/en_us/products/headphones/over_ear_headphones/quietcomfort-35-wireless-ii.html#v=qc35_ii_silver) to use as wireless headphones and as a microphone. They are also noise cancelling which work great in office environments.   
 
-**What I love about my hardware:** I love that I can run ChromeOS, Linux and Android applications all three at the same time in harmony. I really love that my laptop can fold up and become a tablet. I wasn't sure how often I would use this, but as a full time student and worker it's really nice to be able to lay in bed and read my course content. I love that it works well with my other Google products such as my Pixel XL 2. For example, my phone has the ability to unlock my Pixelbook, and I think my Google Pixel Buds can unlock my phone. Finally, The Pixelbook is very light and easy to take with me, plus ChromeOS is pretty secure so getting a virus is not a huge worry right now.  
+**What I love about my hardware:** 
 
-**What I don't like:** Honestly, I am just waiting on GPU acceleration and audio support to come to Crostini. Everything else has been a stellar experience.  
+**What I don't like:**  
 
 # Operating Systems
 ## MacOS  
 ChromeOS is what you will have upon unboxing a Chromebook such as the Google Pixelbook. While the operating system in itself is not extremely useful for a developer, the new features that allow you to run Android and Crostini are very powerful additions. [ChromeUnboxed](https://chromeunboxed.com/tips-tricks/) has some really great tips on getting you transitioned from Mac or PC to a Chromebook.  
 ## Windows (Bootcamp)  
-Ahh, Linux. This is the bread and butter of the setup for me. Without Linux on ChromeOS I would not own a Pixelbook today. To get Linux setup on a Chromebook is a really simple process now. You do this through Crostini, which is intergrated in with a lot of Chromebooks such as the Pixelbook. For tips and tricks on how to install Crostini, head over to [r/Crostini](http://reddit.com/r/crostini) on Reddit. The community is extremely helpful.  
+I am not actually running Windows currently, primarily because I have a desktop computer that runs Windows10. Read more about that over at [my-windows-os](#).   
 
 # Applications
 
