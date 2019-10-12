@@ -47,26 +47,32 @@ I am running Windows 10 on my MacOS, generally just to run Microsoft SQL Server 
 [Tiles](https://freemacsoft.net/tiles/) - A free window manager that allows you to snap windows to the edges of the screen.  
 [Wallpaper Wizard 2](https://apps.apple.com/us/app/wallpaper-wizard-2/id1266674560?mt=12) - HD Desktop Backgrounds.  
 [The Unarchiver](https://theunarchiver.com/) - For opening RAR & Zip files.  
-[JPG to PDF](https://apps.apple.com/us/app/pdf-to-jpg-the-batch-pdf-to-image-converter/id594444151?mt=12) - Convert one or many JPG files into a PDF.
-
+[JPG to PDF](https://apps.apple.com/us/app/pdf-to-jpg-the-batch-pdf-to-image-converter/id594444151?mt=12) - Convert one or many JPG files into a PDF.  
+[Lightweight PDF](https://apps.apple.com/us/app/lightweight-pdf/id1450640351?mt=12) - An app to reduce the size of PDF files without losing much quality.  
+[Send to Kindle](https://www.amazon.com/gp/sendtokindle/mac) - Send personal documents or eBooks to your Kindle.  
 
 ## Productivity 
-[Docs (ChromeOS)](http://docs.google.com) - Microsoft Word replacement.  
-[Sheets (ChromeOS)](http://sheets.google.com) - Microsoft Excel replacement.  
-Gmail (ChromeOS) - You've got mail.  
-[Keep (ChromeOS)](http://keep.google.com) - A wonderful Note application I use with my family. Sharing is easy and it works with Google Home!  
-[Hangouts (ChromeOS)](http://hangouts.google.com) - A great chat/ video/ screen sharing tool by Google.  
-[Calendar (ChromeOS)](http://calendar.google.com) - With desktop notifications, this becomes very useful.  
-[Trello (ChromeOS)](http://trello.com) - Story board application.  
+[Docs (Web)](http://docs.google.com) - Microsoft Word replacement.  
+[Sheets (Web)](http://sheets.google.com) - Microsoft Excel replacement.  
+Gmail (Web) - You've got mail.  
+[Keep (Web)](http://keep.google.com) - A wonderful Note application I use with my family. Sharing is easy and it works with Google Home!  
+[Calendar (Web)](http://calendar.google.com) - With desktop notifications, this becomes very useful.  
+[Trello (Web)](http://trello.com) - Story board application.  
 
 ## Code  
-Terminal (Linux) - Terminal is your most useful app. Use it to install Java, Python, MySQL, etc.  
-[IntelliJ IDEA Ultimate (Linux)](https://www.jetbrains.com/idea/) - An amazing IDE that I use for my Java development.  
-[Visual Studio Code (Linux)](https://code.visualstudio.com/) - Another amazing *light* code editor. Pairprogramming is made easy with the Share plugin.  
+Terminal (MacOS) - Terminal is your most useful app. Use it to install Java, Python, MySQL, etc.  
+Powershell (Windows) - Powerful replacement terminal for Windows CMD. I use this when I need command line in Windows.
+[Visual Studio Code](https://code.visualstudio.com/) - Another amazing *light* code editor. Pairprogramming is made easy with the Share plugin.  
+[Rider](https://www.jetbrains.com/rider/) - Wonderful cross platform .NET IDE by Jet Brains. Highly recommended.  
+[Visual Studio (Mac)](https://visualstudio.microsoft.com/vs/mac/) - Visual Studio for Mac. The IDE is getting better every release, but It's still not quite as good as the Windows counterpart.  
+[Visual Studio (Windows)](https://visualstudio.microsoft.com/vs/) - The best IDE for .NET development in my humble opinion.
+[IntelliJ IDEA Ultimate](https://www.jetbrains.com/idea/) - An amazing IDE by Jet Brains that I use for my Java development.  
+[PyCharm](https://www.jetbrains.com/pycharm/) - Python IDE by Intellij. It's really good and it's cross platform.  
+[GoLand](https://www.jetbrains.com/go/) - GoLand is a cross-platform IDE built specially for Go developers by Jet Brains.
 [MySQL-Workbench (Linux)](https://www.mysql.com/products/workbench/) - Though you don't need a GUI for MySQL, I do like to have one in my local environment.  
-[GitKraken (Linux)](https://www.gitkraken.com/) - Git made easy. I use this to share my code on Github.  
-[AndroidStudio (Linux)](https://developer.android.com/studio/) - Standard Android development IDE.  
-[Unity (Linux)](https://forum.unity.com/threads/unity-on-linux-release-notes-and-known-issues.350256/) - I tested if Unity runs on my Pixelbook, for game development. It runs, however you may want to wait on GPU acceleration if you are going to use a chromebook for any serous game development.    
+[GitKraken](https://www.gitkraken.com/) - Git made easy. I use this to share my code on Github.  
+[AndroidStudio](https://developer.android.com/studio/) - Standard Android development IDE.  
+[Unity](https://forum.unity.com/threads/unity-on-linux-release-notes-and-known-issues.350256/) - I tested if Unity runs on my Pixelbook, for game development. It runs, however you may want to wait on GPU acceleration if you are going to use a chromebook for any serous game development.    
 
 ## Social  
 Instagram (MacOS)  
