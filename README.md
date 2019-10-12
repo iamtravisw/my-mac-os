@@ -70,8 +70,13 @@ Powershell (Windows) - Powerful replacement terminal for Windows CMD. I use this
 [PyCharm](https://www.jetbrains.com/pycharm/) - Python IDE by Intellij. It's really good and it's cross platform.  
 [GoLand](https://www.jetbrains.com/go/) - GoLand is a cross-platform IDE built specially for Go developers by Jet Brains.  
 [MySQL-Workbench (Linux)](https://www.mysql.com/products/workbench/) - Though you don't need a GUI for MySQL, I do like to have one in my local environment.  
-[GitKraken](https://www.gitkraken.com/) - Git made easy. I use this to share my code on Github.   
-[Unity](https://forum.unity.com/threads/unity-on-linux-release-notes-and-known-issues.350256/) - I tested if Unity runs on my Pixelbook, for game development. It runs, however you may want to wait on GPU acceleration if you are going to use a chromebook for any serous game development.    
+[pgAdmin](https://www.pgadmin.org/) - Open Source administration and development platform for PostgreSQL.  
+[Microsoft SQL Server (Windows)](https://www.microsoft.com/en-us/sql-server/default.aspx) - A powerful relational database management system developed by Microsoft.  
+[Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/download?view=sql-server-ver15) - A cross-platform database tool for the Microsoft family of on-premises and cloud data platforms.  
+[Docker](https://www.docker.com/) - Platform-as-a-service product that use OS-level virtualization to deliver software in packages called containers.  
+[Postman](https://www.getpostman.com/) - A wonderful API development tool.  
+[GitKraken](https://www.gitkraken.com/) - Git made easy. I use this to share my code on Github.  
+[Unity](https://unity3d.com/get-unity/download) - A powerful development platform for creating 2D and 3D multiplatform games. [Blender](https://www.blender.org/) - Open source 3D creation. Free to use for any purpose, forever.   
 
 ## Social  
 Instagram (MacOS)  
