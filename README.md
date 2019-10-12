@@ -43,7 +43,12 @@ MacOS is what you will have upon unboxing a MacBookPro, if you purchased in 2019
 I am running Windows 10 on my MacOS, generally just to run Microsoft SQL Server and occasionally Visual Studio (Windows). At the time of writing this, there are two reliable ways to run the Windows operating system. Install a Windows 10 partition using [Bootcamp](https://support.apple.com/boot-camp) which will require you to select which operating system you want to run when you start your computer or you can use [Parallels](https://www.parallels.com). Parallels allows the user to run windows applications "natively" within your MacOS environment. The reason I like Parallels is because it has a coherence mode which allows your window applications to run and behave as if they were mac applications. They show in your dock, they can access all of your mac data and they don't have to reside within a bordered virtual machine window. It just feels like an extension of MacOS.
 
 # Applications
-[Parallels](https://www.parallels.com) - The fastest, easiest and most powerful application for running Windows® on Mac®—without rebooting.
+[Parallels](https://www.parallels.com) - The fastest, easiest and most powerful application for running Windows® on Mac®—without rebooting.  
+[Tiles](https://freemacsoft.net/tiles/) - A free window manager that allows you to snap windows to the edges of the screen.  
+[Wallpaper Wizard 2](https://apps.apple.com/us/app/wallpaper-wizard-2/id1266674560?mt=12) - HD Desktop Backgrounds.  
+[The Unarchiver](https://theunarchiver.com/) - For opening RAR & Zip files.  
+[JPG to PDF](https://apps.apple.com/us/app/pdf-to-jpg-the-batch-pdf-to-image-converter/id594444151?mt=12) - Convert one or many JPG files into a PDF.
+
 
 ## Productivity 
 [Docs (ChromeOS)](http://docs.google.com) - Microsoft Word replacement.  
