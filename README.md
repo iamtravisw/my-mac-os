@@ -1,7 +1,7 @@
 # my-mac-os
 A list of applications and tools that make MacOS such a great experience. Also see [my-chrome-os](https://github.com/iamtravisw/my-chrome-os) and [my-windows-os](#). 
 
-![My MacOS](https://i.imgur.com/OHHFdaV.png)
+![My MacOS](https://i.imgur.com/RXLJUKk.jpg)
 
 ### Contents
 * [Hardware](https://github.com/iamtravisw/my-mac-os#hardware)  
