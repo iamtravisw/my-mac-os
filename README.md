@@ -46,9 +46,7 @@ I am running Windows 10 on my MacOS, generally just to run Microsoft SQL Server 
 [Parallels](https://www.parallels.com) - The fastest, easiest and most powerful application for running Windows® on Mac®—without rebooting.  
 [Tiles](https://freemacsoft.net/tiles/) - A free window manager that allows you to snap windows to the edges of the screen.  
 [Wallpaper Wizard 2](https://apps.apple.com/us/app/wallpaper-wizard-2/id1266674560?mt=12) - HD Desktop Backgrounds.  
-[The Unarchiver](https://theunarchiver.com/) - For opening RAR & Zip files.  
 [JPG to PDF](https://apps.apple.com/us/app/pdf-to-jpg-the-batch-pdf-to-image-converter/id594444151?mt=12) - Convert one or many JPG files into a PDF.  
-[Lightweight PDF](https://apps.apple.com/us/app/lightweight-pdf/id1450640351?mt=12) - An app to reduce the size of PDF files without losing much quality.  
 [Send to Kindle](https://www.amazon.com/gp/sendtokindle/mac) - Send personal documents or eBooks to your Kindle.  
 
 ## Productivity 
@@ -85,8 +83,7 @@ Facebook (MacOS)
 Reddit (MacOS)
 
 ## Music  
-Spotify (Android)  
-YouTube (ChromeOS)  
+Spotify (Web)   
 [Audacity (Linux)](https://www.audacityteam.org/download/linux/) - I use this for any sound editing I need to do.  
 
 *Note that Crostini does not support audio yet. If you need to do heavy audio editing, you might want to wait for audio to officially be supported.*  
@@ -98,16 +95,19 @@ YouTube (ChromeOS)
 [Kdenlive (Linux)](https://kdenlive.org/en/) - Video Editor for Linux. Comparable to FinalCut Pro or Adobe Premiere.   
 
 ## Utilities  
-[Calendar Clock (ChromeOS)](https://chrome.google.com/webstore/detail/calendar-clock/galgfocamdohgeifjlbefkfpaalankfi?hl=en)  
-Google Drive (ChromeOS) - Works similarly to Microsoft Calendar/ Clock.  
-WiFi (Android)  - I use Google's WiFi app to monitor my wifi occasionally, instead of SpeedTest.    
-TEXT (ChromeOS) - This came with my ChromeOS. It's a simple text editor.  
-[COG (ChromeOS)](https://chrome.google.com/webstore/detail/cog-system-info-viewer/difcjdggkffcfgcfconafogflmmaadco?hl=en) - Display lots of useful hardware and network info such as CPU usage and temperatures.
+[The Unarchiver](https://theunarchiver.com/) - For opening RAR & Zip files.  
+[Google Drive](https://drive.google.com/) - Cloud based file hosting by Google to keep my files in in sync across all platforms.  
+[Dato](https://apps.apple.com/us/app/dato/id1470584107?mt=12) - Better menu bar date and time options.  
+[Lightweight PDF](https://apps.apple.com/us/app/lightweight-pdf/id1450640351?mt=12) - An app to reduce the size of PDF files without losing much quality.  
+Activity Monitor - A way to monitor resources for MacOS.  
+Task Manager - A way to monitor resource for Windows 10 in Parallels.  
+Text Edit - I use this built in MacOS application for basic text editing. Anything advanced goes directly to VS Code.  
+Calculator - Quicks maths.  
 
 ## Browsers  
-Chrome (MacOS) - Favorite browser, I use this 99% of the time.  
-Safari (MacOS) - Only used for downloading Chrome.
-Edge (Bootcamp) - Only used for downloading Chrome.
+Chrome - Favorite browser, I use this 99% of the time.  
+Safari- Only used for downloading Chrome.  
+Edge (Windows) - For testing compatibility.  
 
 # Similar Setups
 Here you can find more setups by other people that you can take ideas and inspiration from.
