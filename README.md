@@ -61,17 +61,16 @@ Gmail (Web) - You've got mail.
 
 ## Code  
 Terminal (MacOS) - Terminal is your most useful app. Use it to install Java, Python, MySQL, etc.  
-Powershell (Windows) - Powerful replacement terminal for Windows CMD. I use this when I need command line in Windows.
+Powershell (Windows) - Powerful replacement terminal for Windows CMD. I use this when I need command line in Windows.  
 [Visual Studio Code](https://code.visualstudio.com/) - Another amazing *light* code editor. Pairprogramming is made easy with the Share plugin.  
 [Rider](https://www.jetbrains.com/rider/) - Wonderful cross platform .NET IDE by Jet Brains. Highly recommended.  
 [Visual Studio (Mac)](https://visualstudio.microsoft.com/vs/mac/) - Visual Studio for Mac. The IDE is getting better every release, but It's still not quite as good as the Windows counterpart.  
-[Visual Studio (Windows)](https://visualstudio.microsoft.com/vs/) - The best IDE for .NET development in my humble opinion.
+[Visual Studio (Windows)](https://visualstudio.microsoft.com/vs/) - The best IDE for .NET development in my humble opinion.  
 [IntelliJ IDEA Ultimate](https://www.jetbrains.com/idea/) - An amazing IDE by Jet Brains that I use for my Java development.  
 [PyCharm](https://www.jetbrains.com/pycharm/) - Python IDE by Intellij. It's really good and it's cross platform.  
-[GoLand](https://www.jetbrains.com/go/) - GoLand is a cross-platform IDE built specially for Go developers by Jet Brains.
+[GoLand](https://www.jetbrains.com/go/) - GoLand is a cross-platform IDE built specially for Go developers by Jet Brains.  
 [MySQL-Workbench (Linux)](https://www.mysql.com/products/workbench/) - Though you don't need a GUI for MySQL, I do like to have one in my local environment.  
-[GitKraken](https://www.gitkraken.com/) - Git made easy. I use this to share my code on Github.  
-[AndroidStudio](https://developer.android.com/studio/) - Standard Android development IDE.  
+[GitKraken](https://www.gitkraken.com/) - Git made easy. I use this to share my code on Github.   
 [Unity](https://forum.unity.com/threads/unity-on-linux-release-notes-and-known-issues.350256/) - I tested if Unity runs on my Pixelbook, for game development. It runs, however you may want to wait on GPU acceleration if you are going to use a chromebook for any serous game development.    
 
 ## Social  
