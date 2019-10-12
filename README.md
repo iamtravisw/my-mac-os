@@ -31,15 +31,19 @@ A list of applications and tools that make MacOS such a great experience. Also s
 **Mouse:** [Magic Mouse 2](https://www.apple.com/shop/product/MLA02LL/A/magic-mouse-2-silver) by Apple  
 **Extra:** [Bose QuietComfort 35 Series II](https://www.bose.com/en_us/products/headphones/over_ear_headphones/quietcomfort-35-wireless-ii.html#v=qc35_ii_silver) to use as wireless headphones and as a microphone. They are also noise cancelling which work great in office environments.   
 
-**What I love about my hardware:** It's fast. Very fast. MacOS is very optimized.
+**What I love about my hardware:** It's fast. Very fast. MacOS is very optimized and with Parallels you never miss a beat.  
 
-**What I don't like:**  This is not my first Mac. In the past I have made the mistake (or benefit, depending on how you look at it) of integrating tightly with the Apple Ecosystem. This time, I am avoiding that by using Gmail, Messages for Web, Google Calendar and Keep instead of the native MacOS applications. Mac simply works better when you are using it's built in applications, however I am finding that these web applicatins are working amazingly as replacements and keeps me in the Google Ecosystem that I have previously invested in.
+**What I don't like:**  This is not my first Mac. In the past I have made the mistake (or benefit, depending on how you look at it) of integrating tightly with the Apple Ecosystem. This time, I am avoiding that by using Gmail, Messages for Web, Google Calendar and Keep instead of the native MacOS applications. Mac simply works better when you are using it's built in applications, however I am finding that these web applicatins work amazingly as replacements and keeps me in the Google Ecosystem that I have previously invested in.
 
 # Operating Systems
 ## MacOS  
 MacOS is what you will have upon unboxing a MacBookPro, if you purchased in 2019, that will run Mojave. While I am finding that I really like Mojave, natively there are some applications that I use to make the experience even better. Below I outline the applications that I use day to day with Mojave.   
 
+## Windows  
+I am running Windows 10 on my MacOS, generally just to run Microsoft SQL Server and occasionally Visual Studio (Windows). At the time of writing this, there are two reliable ways to run the Windows operating system. Install a Windows 10 partition using [Bootcamp](https://support.apple.com/boot-camp) which will require you to select which operating system you want to run when you start your computer or you can use [Parallels](https://www.parallels.com). Parallels allows the user to run windows applications "natively" within your MacOS environment. The reason I like Parallels is because it has a coherence mode which allows your window applications to run and behave as if they were mac applications. They show in your dock, they can access all of your mac data and they don't have to be within a bordered virtual machine window. They feel like Mac applications.
+
 # Applications
+[Parallels](https://www.parallels.com) - The fastest, easiest and most powerful application for running Windows® on Mac®—without rebooting.
 
 ## Productivity 
 [Docs (ChromeOS)](http://docs.google.com) - Microsoft Word replacement.  
