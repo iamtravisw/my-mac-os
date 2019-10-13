@@ -97,11 +97,11 @@ Spotify (Web)
 [The Unarchiver](https://theunarchiver.com/) - For opening RAR & Zip files.  
 [Google Drive](https://drive.google.com/) - Cloud based file hosting by Google to keep my files in in sync across all platforms.  
 [Dato](https://apps.apple.com/us/app/dato/id1470584107?mt=12) - Better menu bar date and time options.  
-[Lightweight PDF](https://apps.apple.com/us/app/lightweight-pdf/id1450640351?mt=12) - An app to reduce the size of PDF files without losing much quality.  
 Activity Monitor - A way to monitor resources for MacOS.  
 Task Manager - A way to monitor resource for Windows 10 in Parallels.  
 Text Edit - I use this built in MacOS application for basic text editing. Anything advanced goes directly to VS Code.  
 Calculator - Quicks maths.  
+[Lightweight PDF](https://apps.apple.com/us/app/lightweight-pdf/id1450640351?mt=12) - An app to reduce the size of PDF files without losing much quality.  
 
 ## Browsers  
 Chrome - Favorite browser, I use this 99% of the time.  
@@ -115,9 +115,8 @@ Here you can find more setups by other people that you can take ideas and inspir
 - [iamtravisw's my-chrome-os](https://github.com/iamtravisw/my-chrome-os)
 
 # Related
-[ChromeUnboxed](https://chromeunboxed.com) - A great resource for ChromeOS.  
-[r/Crostini](https://www.reddit.com/r/crostini) - A friendly community of smart, helpful people.  
-[PlayOnLinux](https://www.playonlinux.com/en/) - Have that one app you still need? PlayOnLinux does work on Crostini.  
+[9to5Mac](https://9to5mac.com/) - A great resource for MacOS.  
+[Parallels Knowledge Base](https://kb.parallels.com/119926) - A place to get information about Parallels.   
 
 # Contributing
 If you shared a similar setup to this, be it for MacOS, Windows or anything else, you can add it in [Similar Setups](https://github.com/iamtravisw/my-mac-os#similar-setups) section.
