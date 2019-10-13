@@ -75,7 +75,8 @@ Powershell (Windows) - Powerful replacement terminal for Windows CMD. I use this
 [Docker](https://www.docker.com/) - Platform-as-a-service product that use OS-level virtualization to deliver software in packages called containers.  
 [Postman](https://www.getpostman.com/) - A wonderful API development tool.  
 [GitKraken](https://www.gitkraken.com/) - Git made easy. I use this to share my code on Github.  
-[Unity](https://unity3d.com/get-unity/download) - A powerful development platform for creating 2D and 3D multiplatform games. [Blender](https://www.blender.org/) - Open source 3D creation. Free to use for any purpose, forever.   
+[Unity](https://unity3d.com/get-unity/download) - A powerful development platform for creating 2D and 3D multiplatform games.  
+[Blender](https://www.blender.org/) - Open source 3D creation. Free to use for any purpose, forever.   
 
 ## Social  
 [Twitter Web](http://twitter.com/iamtravisw)  
