@@ -89,7 +89,7 @@ Spotify (Web)
 [Adobe Audition CC 2019](https://www.adobe.com/products/audition.html) - Audio editing.  
 
 ## Photos & Videos  
-[Google Photos (Web)](http://photos.google.com)  - All my photos online in one place.
+[Google Photos (Web)](http://photos.google.com)  - All my photos online in one place.  
 [Adobe Photoshop CC 2019](https://www.adobe.com/products/photoshop.html) - Photo editing.  
 [Adobe After Effects CC 2019](https://www.adobe.com/products/aftereffects.html) - Visual effects.  
 [Adobe Premiere Pro CC 2019](https://www.adobe.com/products/premiere.html) - Video editing.  
