@@ -1,5 +1,5 @@
 # my-mac-os
-A list of applications and tools that make MacOS such a great experience. Also see [my-chrome-os](https://github.com/iamtravisw/my-chrome-os). 
+A list of applications and tools that make MacOS such a great experience. Also see [my-chrome-os](https://github.com/iamtravisw/my-chrome-os) for my Pixelbook setup. 
 
 ![My MacOS](https://i.imgur.com/uOcZN3R.jpg)
 
