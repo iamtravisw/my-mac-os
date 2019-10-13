@@ -82,7 +82,7 @@ Powershell (Windows) - Powerful replacement terminal for Windows CMD. I use this
 [Twitter (Web)](http://twitter.com/iamtravisw)  
 Facebook (Web)  
 Reddit (Web)  
-[Dev.to](https://dev.to/iamtravisw)  
+[Dev.to (Web)](https://dev.to/iamtravisw)  
 
 ## Music  
 Spotify (Web)  
