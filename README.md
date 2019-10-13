@@ -79,7 +79,7 @@ Powershell (Windows) - Powerful replacement terminal for Windows CMD. I use this
 [Blender](https://www.blender.org/) - Open source 3D creation. Free to use for any purpose, forever.   
 
 ## Social  
-[Twitter Web](http://twitter.com/iamtravisw)  
+[Twitter (Web)](http://twitter.com/iamtravisw)  
 Facebook (Web)  
 Reddit (Web)  
 [Dev.to](https://dev.to/iamtravisw)  
