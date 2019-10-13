@@ -56,6 +56,7 @@ Gmail (Web) - You've got mail.
 [Keep (Web)](http://keep.google.com) - A wonderful Note application I use with my family. Sharing is easy and it works with Google Home!  
 [Calendar (Web)](http://calendar.google.com) - With desktop notifications, this becomes very useful.  
 [Trello (Web)](http://trello.com) - Story board application.  
+[Adobe XD](https://www.adobe.com/products/xd.html) - Great for making wireframes and mockup designs.  
 
 ## Code  
 Terminal (MacOS) - Terminal is your most useful app. Use it to install Java, Python, MySQL, etc.  
@@ -77,22 +78,20 @@ Powershell (Windows) - Powerful replacement terminal for Windows CMD. I use this
 [Unity](https://unity3d.com/get-unity/download) - A powerful development platform for creating 2D and 3D multiplatform games. [Blender](https://www.blender.org/) - Open source 3D creation. Free to use for any purpose, forever.   
 
 ## Social  
-Instagram (MacOS)  
-[Twitter (MacOS)](http://twitter.com/iamtravisw)  
-Facebook (MacOS)  
-Reddit (MacOS)
+[Twitter Web](http://twitter.com/iamtravisw)  
+Facebook (Web)  
+Reddit (Web)  
+[Dev.to](https://dev.to/iamtravisw)  
 
 ## Music  
-Spotify (Web)   
-[Audacity (Linux)](https://www.audacityteam.org/download/linux/) - I use this for any sound editing I need to do.  
-
-*Note that Crostini does not support audio yet. If you need to do heavy audio editing, you might want to wait for audio to officially be supported.*  
+Spotify (Web)  
+[Adobe Audition CC 2019](https://www.adobe.com/products/audition.html) - Audio editing.  
 
 ## Photos & Videos  
-[Google Photos (ChromeOS)](http://photos.google.com)  
-[GIMP (Linux)](https://www.gimp.org/) - Image editor, it's pretty popular and only second to Photoshop (in my humble opinion).  
-[AutoDesk SketchBook (Android)](https://sketchbook.com/) - I use this for mocking up new ideas, designs and as a white board replacement.  
-[Kdenlive (Linux)](https://kdenlive.org/en/) - Video Editor for Linux. Comparable to FinalCut Pro or Adobe Premiere.   
+[Google Photos (Web)](http://photos.google.com)  - All my photos online in one place.
+[Adobe Photoshop CC 2019](https://www.adobe.com/products/photoshop.html) - Photo editing.  
+[Adobe After Effects CC 2019](https://www.adobe.com/products/aftereffects.html) - Visual effects.  
+[Adobe Premiere Pro CC 2019](https://www.adobe.com/products/premiere.html) - Video editing.  
 
 ## Utilities  
 [The Unarchiver](https://theunarchiver.com/) - For opening RAR & Zip files.  
